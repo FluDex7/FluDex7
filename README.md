@@ -4,14 +4,11 @@
 
 ### Languages and Technologies
 
-![Python](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dr1zzle1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluDex7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌐 Telegram: @drzz_12
+### 🌐 Telegram: @sheee_sh1
