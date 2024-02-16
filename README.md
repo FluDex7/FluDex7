@@ -13,4 +13,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluDex7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌐 Telegram: @sheee_sh1
+### 🌐 ![Telegram: @sheee_sh1](https://t.me/sheee_sh1)
