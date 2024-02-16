@@ -1,12 +1,11 @@
 # 👋🏻 Hi there, my name is **Danil**
 
-## I'm a Back-end Django developer
+## I'm a Backend Django developer
 
 ### Languages and Technologies
 
 ![Python](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![Django]([https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript](https://img.shields.io/pypi/frameworkversions/:frameworkName/:packageName
-))
+![Django](https://img.shields.io/pypi/frameworkversions/:frameworkName/:packageName)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
