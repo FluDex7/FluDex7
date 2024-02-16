@@ -12,5 +12,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluDex7&layout=compact&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluDex7&layout=pie&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌐 Telegram: [@sheee_sh1](https://t.me/sheee_sh1)
