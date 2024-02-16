@@ -1,4 +1,4 @@
-# 👋🏻 Hi there, my name is **Danil**
+# 👋🏻 Hi, my name is **Danil**
 
 ## I'm a Backend Django developer
 
