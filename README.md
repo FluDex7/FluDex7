@@ -1,8 +1,8 @@
-# 👋🏻 Hi, my name is **Danil**
+# 👋🏻 Hi, my username is **FluDex7**
 
-## I'm a Backend Django developer
+## I'm 19 y.o. and i'm Backend Django developer!
 
-### Languages and Technologies
+### Languages and Technologies that I used
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
