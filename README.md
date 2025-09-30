@@ -1,6 +1,6 @@
 # 👋🏻 Hi, my username is **FluDex7**
 
-## I'm 19 y.o. and i'm Backend Django developer!
+## I'm 21 y.o. and i'm Backend Python Developer!
 
 ### Languages and Technologies that I used
 
@@ -13,4 +13,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluDex7&layout=donut-vertical&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌐 Telegram: [@sheee_sh1](https://t.me/sheee_sh1)
+### 🌐 Telegram: [@romanofflife](https://t.me/romanofflife)
