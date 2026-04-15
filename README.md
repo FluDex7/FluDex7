@@ -19,7 +19,7 @@ name: Danil Romanov
 age: 21
 location: Kazan, Russia
 role: Backend Python Developer
-experience: ~2 years (freelance)
+experience: ~3 years (freelance)
 
 fields_of_interests:
   [
