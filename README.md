@@ -17,7 +17,7 @@
 ```yaml
 name: Danil Romanov
 age: 22
-location: Kazan, Russia
+location: Saint-Petersburg, Russia
 role: Backend Python Developer
 experience: ~3 years (freelance)
 
